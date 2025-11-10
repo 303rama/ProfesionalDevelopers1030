@@ -1,0 +1,16 @@
+a=10 
+print(a)
+print(type(a))
+print(id(a))
+name="ram"
+print(name)
+print(type(b))
+print(id(b))
+is_student=True
+print(is_student)
+print(type(is_student))
+print(id(is_student))
+height=5.9
+print(height)
+print(id(heigt))
+print(type(height))
